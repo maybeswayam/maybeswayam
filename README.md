@@ -125,24 +125,11 @@ I care about **how things work end-to-end**, not just whether the model trains.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=maybeswayam&theme=tokyonight&hide_border=true&card_width=500"
-    height="180"
-  />
-</p>
 
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=maybeswayam&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeswayam&theme=tokyonight&layout=compact&hide_border=true&card_width=500"
-    height="160"
+    height="200"
   />
 </p>
 
