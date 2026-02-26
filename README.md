@@ -50,31 +50,6 @@ I care about **how things work end-to-end**, not just whether the model trains.
 
 ---
 
-## 🛠 Tech Stack
-
-### 🚀 Languages
-`Python` • `JavaScript` • `C` • `C++`
-
-### 📊 Machine Learning & Data
-`PyTorch` • `TensorFlow / Keras` • `NumPy` • `Pandas` • `Scikit-Learn`
-
-### 🧩 Backend
-`FastAPI` • `Flask` • `Node.js` (basic)
-
-### 🗄 Databases
-`MongoDB` (beginner) • `MySQL` • `Firebase`
-
-### ⚙ DevOps & Tools
-`Docker` • `Git & GitHub` • `AWS EC2` • `GitHub Actions`
-
-### 🎨 Frontend
-`Next.js` • `React` • `Tailwind CSS`
-
-### 🧪 Workflow
-`Google Colab` • `VS Code` • `Jupyter Notebooks`
-
----
-
 ## 📌 Featured Projects
 
 ### ⚽ Football Analytics Platform  
@@ -127,12 +102,36 @@ Frontend competence and the ability to **present technical work professionally**
 
 ---
 
-## 📈 What I’m Actively Improving
+## 🛠 Tech Stack
 
-- Writing more **production-grade ML code**  
-- Better experiment tracking and evaluation  
-- Cleaner backend architecture for ML services  
-- Stronger CI/CD and deployment workflows  
+### 🚀 Languages
+`Python` • `JavaScript` • `C` • `C++`
+
+### 📊 Machine Learning & Data
+`PyTorch` • `TensorFlow / Keras` • `NumPy` • `Pandas` • `Scikit-Learn`
+
+### 🧩 Backend
+`FastAPI` • `Flask` • `Node.js` (basic)
+
+### 🗄 Databases
+`MongoDB` (beginner) • `MySQL` • `Firebase`
+
+### ⚙ DevOps & Tools
+`Docker` • `Git & GitHub` • `AWS EC2` • `GitHub Actions`
+
+### 🎨 Frontend
+`Next.js` • `React` • `Tailwind CSS`
+
+### 🧪 Workflow
+`Google Colab` • `VS Code` • `Jupyter Notebooks`
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=maybeswayam&theme=tokyonight&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=maybeswayam&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybeswayam&theme=tokyonight&layout=compact)
 
 ---
 
@@ -147,3 +146,5 @@ If you’re into **ML systems, backend engineering, data pipelines, or deploying
 <p align="center">
   <i>Less theory. More systems. Fewer notebooks. More deployments.</i>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=maybeswayam&icon=0&color=0)](https://visitcount.itsvg.in)
