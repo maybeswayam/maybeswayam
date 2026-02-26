@@ -1,68 +1,178 @@
-# 👋 Hey, I'm Swayam
+👋 Hi, I’m Swayam
+Aspiring ML Engineer • Backend-Oriented Developer • Systems Builder
 
-### 🚀 Aspiring ML Engineer | Backend Developer | Always Building
+I’m a B.Tech student focused on Machine Learning, backend engineering, and real-world deployments.
+I like working on projects where data flows through multiple stages — ingestion, processing, modeling, and presentation — instead of isolated scripts that die in a notebook.
 
-I'm a B.Tech student who loves turning ideas into working projects. I enjoy ML, backend engineering, and deploying real-world apps — even when the deployment fights back.
+I care about how systems work end-to-end, not just whether the model trains.
 
----
+🔎 What I Work On
 
-## 🧠 What I Work On
+Machine Learning & AI
 
-* **Machine Learning & AI**: Building models that *actually* work, not just look good on paper.
-* **Deep Learning**: LSTM-based NLP models, PyTorch/TensorFlow experiments, and hands-on model training.
-* **Full‑Stack Projects**: Creating end‑to‑end systems — from training ML models to deploying them.
-* **Cloud & Deployment**: Docker, AWS EC2, GitHub Actions… basically battling the cloud until it submits.
-* **Firebase**: Currently using it to build a real-time attendance tracking system.
-* **Audio ML Projects**: Working on a small-scale Shazam-like model to identify songs from audio snippets.
+Practical ML pipelines, feature engineering, and evaluation
 
----
+Models that integrate with real systems
 
-## 🛠 Tech Stack I Use
+Deep Learning
 
-**Languages:** Python, JavaScript, C/C++
+CNNs for image-based tasks
 
-**ML & Data:** PyTorch, TensorFlow/Keras, NumPy, Pandas, Scikit‑Learn
+LSTM-based sequence and NLP experiments
 
-**Backend:** FastAPI, Flask, Node.js (basic)
+PyTorch & TensorFlow (hands-on, not theoretical)
 
-**Databases:** Firebase, MongoDB (beginner), MySQL
+Backend for ML Systems
 
-**DevOps & Tools:** Docker, Git/GitHub, AWS EC2
+Designing APIs around ML workflows
 
-**Others:** Google Colab, VS Code, Jupyter Notebooks
+FastAPI / Flask for model inference and services
 
----
+Data Engineering Basics
 
-## 📌 Projects I'm Working On
+ETL pipelines
 
-### 🔬 Histopathology ML System
+Data cleaning, transformation, and aggregation
 
-A full ML pipeline + backend + frontend setup for histopathology image analysis.
+Deployment & DevOps
 
-* Model training (CNNs / DL models)
-* FastAPI backend
-* Deployment with Docker + AWS
+Dockerized applications
 
-### 🎵 Mini‑Shazam (Song Recognition Model)
+AWS EC2 deployments
 
-An ML project that listens to a short audio snippet and predicts which song it is from a dataset of ~100 songs.
+Basic CI/CD with GitHub Actions
 
-* MFCC feature extraction
-* Neural networks for classification
-* Training + evaluation on Google Colab
+Frontend for Data Products
 
-### 📲 Attendance System (Firebase)
+Next.js frontends to visualize data and insights
 
-A clean, fast, and straightforward attendance tracking project using Firebase for real-time databases and auth.
+🛠 Tech Stack
+Languages
 
----
+Python, JavaScript, C, C++
 
-## 📫 Connect With Me
+Machine Learning & Data
 
-**GitHub:** You're already here 👀
+PyTorch, TensorFlow / Keras, NumPy, Pandas, Scikit-Learn
 
-If it involves ML, backend engineering, or deploying something challenging — I'm in.
+Backend
 
----
+FastAPI, Flask, Node.js (basic)
 
-### ⭐ If you're checking out my repos, feel free to drop a star — or better, send a PR.
+Databases
+
+MongoDB (beginner), MySQL, Firebase
+
+DevOps & Tools
+
+Docker, Git / GitHub, AWS EC2, GitHub Actions
+
+Frontend
+
+Next.js, React, Tailwind CSS
+
+Workflow
+
+Google Colab, VS Code, Jupyter Notebooks
+
+📌 Featured Projects
+⚽ Football Analytics Platform (ETL + Frontend)
+
+A data-driven football analytics system that processes raw football data and presents meaningful insights through a web interface.
+
+What I built:
+
+ETL pipeline to extract, clean, and transform football data
+
+Structured data processing for leagues, teams, and matches
+
+Backend logic to serve processed insights
+
+Frontend dashboard to visualize football statistics and trends
+
+Tech used:
+
+Python for data processing
+
+ETL concepts (data ingestion → transformation → output)
+
+Frontend built with modern web tools
+
+Deployed frontend for public access
+
+Why this project matters:
+This shows I can work with real datasets, design a pipeline around them, and build a user-facing product, not just run analysis scripts.
+
+🔬 Histopathology Image Analysis System
+
+A complete ML system, not just a trained model.
+
+Key components:
+
+CNN-based deep learning models for histopathology images
+
+End-to-end ML pipeline (training → inference)
+
+FastAPI backend to expose predictions via REST APIs
+
+Dockerized deployment
+
+Hosted on AWS EC2
+
+What this demonstrates:
+Ability to take an ML problem from model training to production deployment, including backend integration and infrastructure.
+
+🎵 Mini-Shazam (Audio Song Recognition)
+
+An ML project that identifies a song from a short audio snippet, inspired by Shazam-style systems.
+
+Core work:
+
+Audio preprocessing and MFCC feature extraction
+
+Neural network–based classification
+
+Training and evaluation on a ~100-song dataset
+
+Experiments conducted using Google Colab
+
+Skills demonstrated:
+
+Audio signal processing
+
+Feature engineering
+
+Applying ML beyond images and text
+
+🌐 Personal Portfolio Website
+
+A fully custom developer portfolio website built to present my work cleanly and professionally.
+
+Highlights:
+
+Built with Next.js and modern React patterns
+
+Responsive and performance-focused design
+
+Clean project presentation and navigation
+
+Deployed publicly
+
+Why this matters:
+Shows frontend competence, attention to detail, and the ability to present technical work professionally — an underrated but critical skill.
+
+🧠 What I’m Currently Improving
+
+Writing more production-grade ML code
+
+Better experiment tracking and model evaluation
+
+Cleaner backend architecture for ML services
+
+More robust CI/CD and deployment workflows
+
+📫 Let’s Connect
+
+GitHub: You’re already here 👀
+
+If you’re interested in ML systems, backend engineering, data pipelines, or deploying things that break before they work, we’ll probably get along.
