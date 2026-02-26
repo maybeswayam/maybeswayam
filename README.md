@@ -60,8 +60,7 @@ I care about **how things work end-to-end**, not just whether the model trains.
 - Served processed insights to a **frontend dashboard**  
 - Deployed frontend for public access  
 
-**What this shows:**  
-Data engineering fundamentals, pipeline thinking, and the ability to turn raw data into a **user-facing product**.
+**Focus:** data pipelines, system design, and turning raw data into usable insights.
 
 ---
 
@@ -73,8 +72,7 @@ Data engineering fundamentals, pipeline thinking, and the ability to turn raw da
 - **FastAPI backend** exposing prediction APIs  
 - Dockerized and deployed on **AWS EC2**
 
-**What this shows:**  
-I can take an ML idea **from training to production**, including backend integration and infrastructure.
+**Focus:** ML-to-production workflows and backend integration.
 
 ---
 
@@ -85,8 +83,7 @@ I can take an ML idea **from training to production**, including backend integra
 - Trained and evaluated on a ~100-song dataset  
 - Experiments conducted using **Google Colab**
 
-**What this shows:**  
-Strong grasp of **audio ML**, feature engineering, and non-traditional ML domains.
+**Focus:** audio ML, feature engineering, and non-visual ML domains.
 
 ---
 
@@ -97,8 +94,7 @@ Strong grasp of **audio ML**, feature engineering, and non-traditional ML domain
 - Structured presentation of projects and skills  
 - Publicly deployed
 
-**What this shows:**  
-Frontend competence and the ability to **present technical work professionally**.
+**Focus:** presenting technical work professionally.
 
 ---
 
@@ -129,22 +125,39 @@ Frontend competence and the ability to **present technical work professionally**
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=maybeswayam&theme=tokyonight&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=maybeswayam&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maybeswayam&theme=tokyonight&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=maybeswayam&theme=tokyonight&hide_border=true&card_width=500"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=maybeswayam&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybeswayam&theme=tokyonight&layout=compact&hide_border=true&card_width=500"
+    height="160"
+  />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-💻 **GitHub** — you’re already here 👀  
+I’m always interested in discussions around:
+- machine learning systems  
+- backend engineering  
+- data pipelines  
+- deploying things that break before they work  
 
-If you’re into **ML systems, backend engineering, data pipelines, or deploying things that break before they work**, we’ll probably get along.
+If that’s your space too, feel free to explore my repositories or connect with me here on GitHub.
 
 ---
-
-<p align="center">
-  <i>Less theory. More systems. Fewer notebooks. More deployments.</i>
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=maybeswayam&icon=0&color=0)](https://visitcount.itsvg.in)
