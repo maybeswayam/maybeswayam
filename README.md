@@ -43,8 +43,8 @@ devops    = ["Docker", "AWS EC2", "GitHub Actions"]
 frontend  = ["Next.js", "React", "Tailwind CSS"]
 databases = ["MySQL", "MongoDB", "Firebase", "Supabase"]
 languages = ["Python", "JavaScript", "JAVA", "GO"]
-core_ai = ["Deep Learning", "CNNs", "LSTMs", "Attention Mechanism", "NLP"]
-gen_ai = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
+core_ai   = ["Deep Learning", "CNNs", "LSTMs", "Attention Mechanism", "NLP"]
+gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 ```
 
 ---
