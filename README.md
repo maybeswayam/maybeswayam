@@ -62,11 +62,6 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 </div>
 ---
 
-<div align="center">
-  <sub>Systems over notebooks &nbsp;·&nbsp; Deployment over demos</sub>
-</div>
-
-
 ## Current Focus
 
 ```bash
@@ -81,5 +76,5 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
