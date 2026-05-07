@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&text=Swayam Adhana&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&text=Swayam_Adhana&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <strong>ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; Backend-First</strong><br/>
+  <strong>AI/ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; Backend-First</strong><br/>
   <sub>I build things that work beyond the notebook — model to API to deployment.</sub>
+  <sub>To bots that actually assist you with your tasks </sub>
 </div>
 
 <br/>
@@ -26,7 +27,7 @@ Rather than isolated models, I prefer creating practical systems that are scalab
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Histopathology AI** | CNN-based cancer detection, end-to-end | PyTorch · FastAPI · Docker · AWS EC2 |
+| **Histopathology AI** | Fusion model, CNN, end-to-end cancer detection | PyTorch · FastAPI · Docker · VGG-16, RESTNET |
 | **Football Analytics** | ETL pipeline across 1,891 matches → dashboard | Python · Next.js · Vercel |
 | **Mini-Shazam** | Audio fingerprinting via MFCC + neural net | PyTorch · Colab |
 | **Portfolio** | Custom-built, deployed | Next.js · Tailwind |
@@ -40,8 +41,10 @@ ml        = ["PyTorch", "TensorFlow", "Scikit-Learn", "NumPy", "Pandas"]
 backend   = ["FastAPI", "Flask", "Node.js"]
 devops    = ["Docker", "AWS EC2", "GitHub Actions"]
 frontend  = ["Next.js", "React", "Tailwind CSS"]
-databases = ["MySQL", "MongoDB", "Firebase"]
-languages = ["Python", "JavaScript", "C", "C++"]
+databases = ["MySQL", "MongoDB", "Firebase", "Supabase"]
+languages = ["Python", "JavaScript", "JAVA", "GO"]
+core_ai = ["Deep Learning", "CNNs", "LSTMs", "Attention Mechanism", "NLP"]
+gen_ai = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 ```
 
 ---
