@@ -66,6 +66,27 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
   <sub>Systems over notebooks &nbsp;·&nbsp; Deployment over demos</sub>
 </div>
 
+
+## Current Focus
+
+```bash
+> building scalable AI systems
+> backend-first architecture
+> deployment and infrastructure
+> production-ready applications
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
+<br/>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
