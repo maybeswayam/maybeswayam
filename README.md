@@ -73,6 +73,10 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,nodejs,docker,aws,nextjs,react,tailwind,mysql,mongodb,supabase,git,go,javascript" />
+</p>
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
