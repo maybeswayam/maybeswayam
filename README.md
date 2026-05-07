@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&text=Swayam_Adhana&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=160&section=header&text=Swayam_Adhana&fontSize=42&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
-
-<br/>
 
 <div align="center">
   <strong>AI/ML Engineer &nbsp;·&nbsp; Systems Builder &nbsp;·&nbsp; Backend-First</strong><br/>
@@ -80,5 +78,5 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,100:0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=140&section=footer&text=AI%20Engineering%20·%20Backend%20Systems%20·%20Deployment&fontSize=18&fontColor=C9D1D9&fontAlignY=78" width="100%"/>
 </div>
