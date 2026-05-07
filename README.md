@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&text=Swayam&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&text=Swayam Adhana&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
