@@ -55,7 +55,7 @@ gen_ai    = ["Transformers", "LLMs", "RAG", "LangChain", "Embeddings"]
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=maybeswayam&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=maybeswayam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=58A6FF" height="180" />
+
 
 </div>
 ---
