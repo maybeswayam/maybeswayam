@@ -14,7 +14,7 @@
 
 ### About
 
-B.Tech student passionate about end-to-end AI engineering — transforming raw data into production-ready systems.
+B.Tech student passionate about end-to-end AI engineering transforming raw data into production-ready systems.
 I’m particularly interested in system design, backend infrastructure, model deployment, and building applications where multiple technologies work together seamlessly.
 
 Rather than isolated models, I prefer creating practical systems that are scalable, usable, and built with real-world deployment in mind.
